@@ -33,7 +33,7 @@ You can install the development version of bofpss3 like so:
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(bofpss3)
+# library(bofpss3)
 ## basic example code
 ```
 
